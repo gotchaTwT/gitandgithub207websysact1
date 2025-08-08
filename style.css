@@ -2,9 +2,23 @@
 .center-content {
     text-align: center;
     margin-top: 50px;
+    font-family: Arial, sans-serif;
 }
 
 .center-content img {
     max-width: 300px;
     height: auto;
+    border-radius: 8px;
+}
+
+.center-content h1,
+.center-content h2 {
+    margin: 10px 0;
+}
+
+.center-content p {
+    max-width: 600px;
+    margin: 20px auto;
+    line-height: 1.6;
+    font-size: 16px;
 }
