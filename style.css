@@ -1,0 +1,10 @@
+
+.center-content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.center-content img {
+    max-width: 300px;
+    height: auto;
+}
